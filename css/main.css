@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(../img/background-dame.jpg);
+    background-size: cover;
+ }
+
+#titre{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#titre h1{
+    margin: -5px;
+    padding-top: 0px;
+}
+
+
+@media screen and (max-width: 820px) {
+    #titre h1{
+        font-size: 50px;
+    }
+}
+
+@media screen and (min-width: 820px) {
+    #titre h1{
+        font-size: 100px;
+    }
+}
+
+main{
+    text-align: center;
+}
+
+.box{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    border: 5px solid black;
+
+
+}
+#case1 {
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+
+
+
+}
+#case2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(153, 149, 149);
+
+}
+#case3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(232, 2, 2);
+    border: 2px solid black;
+
+
+
+}
+#case4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(236, 240, 0);
+    border: 2px solid rgb(153, 149, 149);
+
+}
+
+
+@media screen and (max-width: 1500px) {
+    iframe{
+        width: 80%;
+    }
+}
+
+footer{
+    background-color: rgb(255, 249, 249);
+    padding: 10px 10px 10px 10px;
+    display: block;
+    bottom: 0px;
+}
+
+#jason{
+    margin-top: 100px;
+    display: block;
+
+    color: white;
+}
+
+#jason section{
+    display: inline-block;
+    width: 100px;
+}
+
+#section1{
+    margin: 0% 54% 0% 00% ;
+}

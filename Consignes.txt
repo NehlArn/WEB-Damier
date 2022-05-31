@@ -1,0 +1,19 @@
+Bonjour Neil,
+
+ 
+
+Comme au 1er trimestre, vous avez la possibilité de rendre un travail de rattrape.
+
+Il s’agit d’effectuer une page générant un damier personnalisable :
+
+L’utilisateur a la possibilité de choisir la dimension (nombre de cases) et la couleur des cases (2, noir et blanc par défaut).
+
+ 
+
+Date de rendu au plus trad : 31/05/2022.
+
+ 
+
+Bonne journée,
+
+Grâce
